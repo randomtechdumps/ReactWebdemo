@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'reactwebdemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87752277FFE94CFCB3B87259F2D6B64C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37C2196F803247029218A1B6BF394537 }}
